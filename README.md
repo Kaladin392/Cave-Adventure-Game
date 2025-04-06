@@ -2,7 +2,7 @@
 A text-based adventure game written in C++ where you explore and solve puzzles to escape a cave system. The game was based on Zork, a popular old school text-based adventure game. It was written for a C++ course at Aiken Technical College.
 
 # Note
-The game does not have an executable. To run the game you must have Microsoft Visual Studio or some other IDE that includes a C++ Debugger. Run the game either by copying the repository to your IDE of choice or by downloading the files and double clicking "Zork Project C++ ll.sln" if you use Visual Studio.
+The game does not have an executable. To run the game you must have Microsoft Visual Studio or some other IDE that includes a C++ Debugger. Run the game by copying the repository to your IDE of choice and running it through a debugger.
 
 # Controls
 All controls are text commands, written in a Command Prompt. The controls can also be seen initally upon program startup or by typing "commands" in the command prompt. The '->' icon indicates pressing the enter key and responding to another prompt.
